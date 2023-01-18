@@ -1,0 +1,42 @@
+{
+    "0": {
+        "id": 0,
+        "size": 654.0,
+        "capacity": 151,
+        "number_of_beds": 3,
+        "type": "Deluxe",
+        "price": 654.0
+    },
+    "1": {
+        "id": 1,
+        "size": 65.0,
+        "capacity": 23,
+        "number_of_beds": 5,
+        "type": "Suite",
+        "price": 634.0
+    },
+    "56": {
+        "id": "56",
+        "size": 6541.0,
+        "capacity": 561,
+        "number_of_beds": 5612,
+        "type": "Basic",
+        "price": 6541.0
+    },
+    "654": {
+        "id": "654",
+        "size": 651.0,
+        "capacity": 651,
+        "number_of_beds": 6514,
+        "type": "Basic",
+        "price": 651.0
+    },
+    "351": {
+        "id": "351",
+        "size": 351.0,
+        "capacity": 5641,
+        "number_of_beds": 654,
+        "type": "Deluxe",
+        "price": 456.0
+    }
+}
